@@ -13,7 +13,8 @@ body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.65 "IBM Ple
 :lang(ar) body, body:lang(ar) { font-family:"IBM Plex Sans Arabic",system-ui,-apple-system,Tahoma,sans-serif; }
 header, main, footer { max-width:720px; margin:0 auto; padding:0 16px; }
 header { display:flex; align-items:center; justify-content:space-between; gap:12px; padding-top:20px; padding-bottom:12px; border-bottom:1px solid var(--edge); }
-header img { height:46px; width:auto; display:block; }
+header img { height:46px; width:auto; display:block; background:#141417; border-radius:10px; padding:3px 8px; }
+@media (prefers-color-scheme: dark) { header img { background:none; padding:0; } }
 nav { display:flex; flex-wrap:wrap; gap:14px; font-size:14px; }
 a { color:var(--accent); }
 nav a[aria-current="page"] { color:var(--ink); font-weight:600; text-decoration:none; }
@@ -28,7 +29,7 @@ footer { color:var(--muted); font-size:13px; padding-top:28px; padding-bottom:40
 </head>
 <body>
 <header>
-<a href="index.html"><img src="../brand/logo.webp" alt="Motomart" width="93" height="46"></a>
+<a href="index.html"><img src="../brand/logo.webp" alt="Motomart" width="107" height="46"></a>
 <nav><a href="index.html">Support</a><a href="privacy.html" aria-current="page">Privacy</a><a href="terms.html">Terms</a><a href="../ar/privacy.html" lang="ar">العربية</a></nav>
 </header>
 <main>
@@ -40,7 +41,7 @@ footer { color:var(--muted); font-size:13px; padding-top:28px; padding-bottom:40
 <ul><li>Your email address, to send your sign-in code. If you use Sign in with Apple, we receive the email address Apple shares with us (Apple lets you hide your real one) and, the first time, your name.</li><li>Your profile: the name you choose, your governorate if you set one, and your language and theme choices.</li><li>Your WhatsApp number, if you add one to sell. It is stored separately from your profile.</li><li>Your listings: title, description, price, category, item details, the governorate and area you choose, and photos.</li><li>What you do in the app: listings you save, people you block, reports you send, and a record each time a buyer asks for a seller’s WhatsApp number (who asked, for which listing, and when). We also count listing views and shares; when you are signed in, a view or share is linked to your account.</li></ul>
 <p>Photos are re-encoded on your phone before they are uploaded. This removes the camera information stored in the file, including the GPS location where the photo was taken.</p>
 <p>The app keeps your sign-in session, language, theme and chosen governorate on your phone.</p>
-<p>We don’t collect your contacts or your device’s location. The app has no advertising, no third-party analytics and no tracking across other companies’ apps or websites.</p>
+<p>We don’t collect your contacts or your device’s location. The app has no advertising networks, no third-party analytics and no tracking across other companies’ apps or websites. Featured listings (see our terms) are chosen by us and use no data about you.</p>
 <h2>How we use it</h2>
 <ul><li>To sign you in and keep you signed in.</li><li>To show your listings to buyers and let them contact you on WhatsApp.</li><li>To keep the marketplace safe: reviewing a new seller’s first listing, acting on reports, and limiting abuse such as collecting sellers’ numbers.</li><li>To show you your own listings, saved listings and view counts.</li><li>To run the service and fix problems.</li></ul>
 <p>We don’t sell your data and we don’t use it for advertising.</p>
@@ -56,7 +57,7 @@ footer { color:var(--muted); font-size:13px; padding-top:28px; padding-bottom:40
 <h2>Your choices</h2>
 <ul><li>See and change your profile and your listings in the app at any time.</li><li>Change or remove your WhatsApp number in your profile. Without a number, buyers can’t contact you and you can’t publish new listings.</li><li>Delete your account in the app: Account → Delete my account. It takes effect straight away.</li><li>Ask for a copy of your data, or ask us anything about this policy, at <a href="mailto:support@motomarteg.com">support@motomarteg.com</a>.</li></ul>
 <h2>Children</h2>
-<p>Motomart is not meant for children. You must be 18 or older to create an account.</p>
+<p>Anyone can browse listings without an account, and browsing without an account collects no personal information. You must be 18 or older to create an account, and we don’t knowingly keep personal information about anyone younger. If you believe a child has created an account, tell us at <a href="mailto:support@motomarteg.com">support@motomarteg.com</a> and we will delete it.</p>
 <h2>Security</h2>
 <p>Data travels over encrypted connections. Access rules in our database let each person change only their own data, and a seller’s number is released only through a recorded, limited request. No system is perfectly secure; if you find a problem, tell us at <a href="mailto:support@motomarteg.com">support@motomarteg.com</a>.</p>
 <h2>Changes to this policy</h2>

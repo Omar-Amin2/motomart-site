@@ -13,7 +13,8 @@ body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.65 "IBM Ple
 :lang(ar) body, body:lang(ar) { font-family:"IBM Plex Sans Arabic",system-ui,-apple-system,Tahoma,sans-serif; }
 header, main, footer { max-width:720px; margin:0 auto; padding:0 16px; }
 header { display:flex; align-items:center; justify-content:space-between; gap:12px; padding-top:20px; padding-bottom:12px; border-bottom:1px solid var(--edge); }
-header img { height:46px; width:auto; display:block; }
+header img { height:46px; width:auto; display:block; background:#141417; border-radius:10px; padding:3px 8px; }
+@media (prefers-color-scheme: dark) { header img { background:none; padding:0; } }
 nav { display:flex; flex-wrap:wrap; gap:14px; font-size:14px; }
 a { color:var(--accent); }
 nav a[aria-current="page"] { color:var(--ink); font-weight:600; text-decoration:none; }
@@ -28,7 +29,7 @@ footer { color:var(--muted); font-size:13px; padding-top:28px; padding-bottom:40
 </head>
 <body>
 <header>
-<a href="index.html"><img src="../brand/logo.webp" alt="Motomart" width="93" height="46"></a>
+<a href="index.html"><img src="../brand/logo.webp" alt="Motomart" width="107" height="46"></a>
 <nav><a href="index.html" aria-current="page">الدعم</a><a href="privacy.html">الخصوصية</a><a href="terms.html">الشروط</a><a href="../en/index.html" lang="en">English</a></nav>
 </header>
 <main>
