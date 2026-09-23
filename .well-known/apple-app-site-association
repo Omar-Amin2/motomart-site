@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "7CSS4WLJ7Y.com.motomart"
+        ],
+        "components": [
+          {
+            "/": "/l/*",
+            "comment": "A shared listing: /l/?id=<listing id>"
+          }
+        ]
+      }
+    ]
+  }
+}

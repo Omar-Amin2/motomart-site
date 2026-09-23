@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-itunes-app" content="app-id=6815014075">
+<meta name="robots" content="noindex">
+<title>Motomart</title>
+<meta property="og:title" content="Motomart">
+<meta property="og:description" content="Motomart is the motorcycle marketplace for Egypt: bikes, parts, gear and accessories. Get the app to see the photos, the price and the seller.">
+<style>
+:root { --bg:#f2f1ef; --surface:#fff; --ink:#17171a; --muted:#5d5d66; --edge:#dddcd8; --accent:#a9430b; color-scheme: light dark; }
+@media (prefers-color-scheme: dark) { :root { --bg:#101013; --surface:#1a1a1f; --ink:#f4f4f5; --muted:#a1a1aa; --edge:#2a2a31; --accent:#f26b1d; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.65 "IBM Plex Sans","IBM Plex Sans Arabic",system-ui,-apple-system,"Segoe UI",Tahoma,sans-serif; }
+:lang(ar) body, body:lang(ar) { font-family:"IBM Plex Sans Arabic",system-ui,-apple-system,Tahoma,sans-serif; }
+header, main, footer { max-width:720px; margin:0 auto; padding:0 16px; }
+header { display:flex; align-items:center; justify-content:space-between; gap:12px; padding-top:20px; padding-bottom:12px; border-bottom:1px solid var(--edge); }
+header img { height:46px; width:auto; display:block; }
+nav { display:flex; flex-wrap:wrap; gap:14px; font-size:14px; }
+a { color:var(--accent); }
+nav a[aria-current="page"] { color:var(--ink); font-weight:600; text-decoration:none; }
+h1 { font-size:26px; line-height:1.25; margin:28px 0 4px; }
+h2 { font-size:17px; margin:28px 0 8px; }
+p, ul { margin:0 0 12px; }
+ul { padding-inline-start:22px; }
+li { margin-bottom:6px; }
+.updated { color:var(--muted); font-size:13px; margin-bottom:20px; }
+footer { color:var(--muted); font-size:13px; padding-top:28px; padding-bottom:40px; }
+
+section { padding-bottom: 8px; }
+.cta { display:inline-block; margin-top:4px; padding:12px 20px; border-radius:12px; background:var(--accent); color:#fff; font-weight:600; text-decoration:none; }
+.js section.other { display:none; }
+</style>
+<script>
+  // Arabic first for an Arabic phone; without JavaScript both show.
+  document.documentElement.className = 'js';
+</script>
+</head>
+<body>
+<header>
+<picture><source srcset="../brand/logo.webp" media="(prefers-color-scheme: dark)"><img src="../brand/logo-light.webp" alt="Motomart" width="111" height="46"></picture>
+<nav><a href="#" id="swap"></a></nav>
+</header>
+<main>
+<section lang="en" dir="ltr">
+<h1>Open this listing in Motomart</h1>
+<p>Motomart is the motorcycle marketplace for Egypt: bikes, parts, gear and accessories. Get the app to see the photos, the price and the seller.</p>
+<p><a class="cta" href="https://apps.apple.com/app/id6815014075">Download on the App Store</a></p>
+<p class="updated">Already have the app? Open this link again from WhatsApp or Messages and it opens in Motomart.</p>
+</section>
+<section lang="ar" dir="rtl">
+<h1>افتح هذا الإعلان في موتومارت</h1>
+<p>موتومارت سوق الموتوسيكلات في مصر: موتوسيكلات وقطع غيار وملابس وإكسسوارات. حمّل التطبيق لترى الصور والسعر والبائع.</p>
+<p><a class="cta" href="https://apps.apple.com/app/id6815014075">حمّل من App Store</a></p>
+<p class="updated">التطبيق عندك؟ افتح الرابط مرة أخرى من واتساب أو الرسائل وسيفتح في موتومارت.</p>
+</section>
+</main>
+<footer>© Motomart · <a href="../en/index.html">Support</a> · <a href="../ar/index.html" lang="ar">الدعم</a></footer>
+<script>
+  var ar = (navigator.language || '').toLowerCase().indexOf('ar') === 0;
+  function show(a) {
+    var s = document.querySelectorAll('main section');
+    s[0].className = a ? 'other' : '';
+    s[1].className = a ? '' : 'other';
+    document.documentElement.lang = a ? 'ar' : 'en';
+    var sw = document.getElementById('swap');
+    sw.textContent = a ? 'English' : 'العربية';
+    sw.onclick = function (e) { e.preventDefault(); show(!a); };
+  }
+  show(ar);
+</script>
+</body>
+</html>
