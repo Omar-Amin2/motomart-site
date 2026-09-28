@@ -1,13 +1,11 @@
 {
-  "v": 1,
-  "version": "ota-3",
   "seq": 3,
   "builds": [
     13
   ],
-  "bundle": "ota-3",
-  "url": "https://motomarteg.com/updates/bundles/ota-3.zip",
   "checksum": "54170c95aca911ef12637b6b3959b1d793793ff96d282c9737323859f594b97d6389e2170938cb419f63dd6bb4c2d18f86551ec718cf8043d81b5be074f4a618bb7a176939b92eb375447527bb0b11032461d24ba4a813075c0b3b1bbcd9d9f8fc616311147dd318935b7ceab0d4ca873326d88eeccfb8b602626aa0f0ee9d8422312766d606a14dbf1a62497a63afb2dd39d836ef3db25a48eea043e6dc21b324fa00e5fe4752375e522335b274db117efec3a7a97de7da681fef80f08dd73b73d3e3ce1f6f55f56985cbee747f8ce60303e6aa5506ade0f24fa28325779c18b043715d71eb21be0c1a7bbb6029e200e8d9d41e4153007878cc0ff010c72733",
   "session_key": "yWLtLTIN1pXUwKhJxtVM8g==:axTVJ9aEPB9RGxKnlCZ/83j2sxvvPEqWJmupuuZdVnUrasPE7uQEaxwVKvBYu4THGqlt33Zt0YdlCZsy90HVhZsOzIqVL13XnhGH2YiorO5jANmckyJU0sF+XXdAEy3o3C9Vk3+yyveBEsiddwsx/l9W2Nd9aR0QMUJq5c7EbZNPgWUjvSeUCbeOR80PA4NrHVhX4FEm2TTrfPL3dJGNj95qHrPCVN2+9l1PITshUp9RlH3xPmDNVuU0wjMvOcKFGRYEUQmTmAwEj4C+xsGF1RZhpg0sRiUymAaWVisWfwXKNlvpNS98+goic+4uPC0Tx7cBmluzwpRc4giuVQIrWg==",
-  "notes": "Catalogue changes reach the app on its next open; Sell: easier answers"
+  "notes": "Catalogue changes reach the app on its next open; Sell: easier answers",
+  "source": "motomart@f21f4ec",
+  "created": "2026-09-28T19:55:54.370Z"
 }
