@@ -1,13 +1,11 @@
 {
-  "v": 1,
-  "version": "ota-2",
   "seq": 2,
   "builds": [
     13
   ],
-  "bundle": "ota-2",
-  "url": "https://motomarteg.com/updates/bundles/ota-2.zip",
   "checksum": "003d978f0e0ad825c367eb33ee9df7f691d55afe3925c7e6d5f89e370694129a79b8f07ea56aa63b14ec0edc8349be4ff8be31cc790402bc92c8763fccdc7cd5cdad9c4429ec772f7b528396c4c99e04b59561da9222511e0407718f05b19f0e2edaa438e0ca34b256e7071c63ec48c98eda64ec8950b5f2ba38483aace1e353f5b17c448f4d0d4962cab5620d7e340ec9e9aaa513dbdb08708a99c6a2448c4cae974c9e08219955456b1583f1f898776151234cb9cb9245539008161a27fbc5396f0191a6bbf0d5d38170067399aca3e3b7800d5922ee58856cd04257ba76b58e4783e1580c2fbc77e1222ae34ffc13127184a631d083ab52e9dccd9628d748",
   "session_key": "yBjbWCDy/2TlbrqGcwiR9Q==:N4/CX4yW5aUybaPM6rmcsk7gNXaueWnR3rORVMw+XJbXhid5EfHrUJQ20FQaJcF6TmylJcHckQZjyLVknQIVuYQZ1VoEwhC0UBmFQkc8uR28nzjwPGEEwzJftx/7bVR/ITXKjL3BiX2mjZi0QeUOoM62T7OLNit9Zno/3DBEWRRPtSjMxbx70cnGqUIkWG0VD448i6YlJBgoZKvUyieHGFCFgeai/D1BRASWq76efKY651XEOBhQFRb1HAw41F4R7TWRDALA8OwZ0efJrIpRlp7EM2nPbRgBDRu1+7NRwxYkyDwcvDFNVEp1RADdOqi7e55cggl+/sE0DoH8XC/KaA==",
-  "notes": "Battery capacity keeps its decimals (8.6 Ah); an oil's volume from a list of sizes in ml; with ota-1's wording"
+  "notes": "Battery capacity keeps its decimals (8.6 Ah); an oil's volume from a list of sizes in ml; with ota-1's wording",
+  "source": "motomart@69032f4",
+  "created": "2026-09-28T14:43:20.188Z"
 }
