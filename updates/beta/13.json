@@ -1,0 +1,13 @@
+{
+  "v": 1,
+  "version": "ota-1",
+  "seq": 1,
+  "builds": [
+    13
+  ],
+  "bundle": "ota-1",
+  "url": "https://motomarteg.com/updates/bundles/ota-1.zip",
+  "checksum": "214228fb9524bf7134995c993e6c5666dc02687f3ea9d9186a8aacb38cfacafa68a7f7eaac316d310203d42b812a84bd53849878f0fd507529a613434f3e2e73562d633c68ea218041c6bb77acc50fcb13828e704538fb84652ae074cde7327c11f625a7ce33b9d074a77688d2308bd4c102fed3b9a600efe86b9da8a823a180db9ee5205818868700101a44a440ae3b7b2957da54f3b43a1fb03a721116ee682de7fd792927266d799991310fdee5cc0b5545e429af6f2f048b557831d02f865f25fadc46346f55b274b8ebf5a7a0a463509dc28181a9b913684dbfc8adad7ee426305d3f500a3e8ebee39797a21fde4c13a19bf19a58a431182ca739546cdc",
+  "session_key": "aTyjz+r19A/jsnD4OwpKXw==:ghAKJeEZSahDeLK76zRxEHIAbEMI7ebn3dfd6vsyec53K1JvcZIhSg0GmQed+L25K6ZVUHV6UP91gmYcpDJHlQrezs5biWl9G1nk18FrK5mwSyoScXlMI1magm0sLSMFDoZz8fgAvgkniLvX1c63iOlxWYeUDNtJo4NgpvKBVSy1IUunHuH1RiGyYWP5RIwkWbmz8EdOjgCnzlMh8Rkr8sau1sLqWfJvH2TVZFLSqiZQikL9Lgw21131e/Z7hcZvHDk/hspIOECyAL4AjRX5EYgqCwt9dnapOxm4pPO49L0hRbiwkA5KlKp6y2v7W6hZx8sak4bvhuT4mAIn/HY1DA==",
+  "notes": "Audio: intercoms and communication systems (EN/AR); the shop form's brands hint says Repair and Maintenance"
+}
