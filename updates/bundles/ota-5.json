@@ -1,13 +1,11 @@
 {
-  "v": 1,
-  "version": "ota-5",
   "seq": 5,
   "builds": [
     13
   ],
-  "bundle": "ota-5",
-  "url": "https://motomarteg.com/updates/bundles/ota-5.zip",
   "checksum": "6777081c924cb0d8920ae5f1ca18f42f6c8597915a3c0bccb4b147988ef8920521c24e641e3ed9001a05da8955840d10caa9f7c7a95ac148ef246354222716d9deeca316dc6dd02653c89bb242a9b1c3172bf75bd0dcaa76c4c8ea1ddbc33af5c0b2559f3d3aa2735e2bee5f2b7e6c7efa865006f117618181a4a18777a9c682afc399012bd6c99168704b8d6df7d71a36e9cd708cd5be0945a2676b4c55cd25d7f35a37830e6315d4a174c262792704e6ba360c71f20ebc6e09df3b9845b0ca200974220140766a0e7574cac334b7d72699f37d316734710a5ed3df6c5dc93bbf2b4eb336c5d52a423683c63e032e068508084f0090aaf1ce96df4cb0628e31",
   "session_key": "0wi1BfVP/7KboHAiefwFxA==:MoEbPej5NoWVsFjmAjFWqKoSb+Tj0N/PxflGB0wkZLPKskqXg+GEJbOb7FWSpD4er6prDp/W197kLJfSSTblISS8yERfjcLjK4CUgpsQspE3GW1gJ0lijiAQUvMMH7nim+zmkEki6HbJidLY526SSv4nhan7tLMqWGNYaFv+/v/zeMCK/LUPCrHyz5w+mTX0CwEm/eLhTwQc3uSjSZpP52hIpQVXeACf5Okhn6Rw32VxXESTxfsFOX/YzfiB/4bzb9FfdAz2UfnmtkQOAN40rOdGAjS/HsQJdat2joc7WmDuCcv+VDPVP+JVDKD861yhVSpQezIUEhfpZyf88PLQjQ==",
-  "notes": "Governorate as a search: Sell, profile, shop form, Filters and Home (other spellings and main cities find it)"
+  "notes": "Governorate as a search: Sell, profile, shop form, Filters and Home (other spellings and main cities find it)",
+  "source": "motomart@222a773",
+  "created": "2026-09-28T21:46:23.877Z"
 }
