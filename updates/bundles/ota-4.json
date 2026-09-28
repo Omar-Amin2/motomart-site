@@ -1,13 +1,11 @@
 {
-  "v": 1,
-  "version": "ota-4",
   "seq": 4,
   "builds": [
     13
   ],
-  "bundle": "ota-4",
-  "url": "https://motomarteg.com/updates/bundles/ota-4.zip",
   "checksum": "0e5681e88fc0f4dfd8df4e50d34ce712dd7c228083af124bb40f2949f61af5a793da763ec83b596970ee7c779cc2811291f38536dda2ff6906a38d3f31fc94ecd341b1eb39a1bb640d8848141e71615528b44f28344ebaec4e2521ab8d5fc86d888dd73963a50ee68fef7c294198e87be9d783ac8f9531f5c07d8fbe7399139f332ee6d4d450e7336cfa2b37d4166313c260a157d28c9e5280b15a3956fc52d8b00e456bcb69fa36fc5fbaa9aa9784ecd48f11492655aa414755ea364dfe0dac52d3996c7ea368fbac82d4dcf6ba9353c3cc3cc6293bf29ae739813da437dfd8a9d966faf8aed172131923eb7ce3cf9ad0c157bcc0ed8e85c1c665b59a87be4a",
   "session_key": "9z+Z5IJylpP5Wu0szdMJew==:HixNXKT8WWDHHIG974TJcZH00EcwUXlqWo6x3otDfJDAONtZ8438vyQXZO/L7HFHw694ibFpAAZWkOAlZfMgdMp3TwruMmjX9tImSLCyn8ZWXuVEtyCT8Ppfe0+dIUgQY/vnlPNwnuvTPE3kh3xigN+R+tMo1b5qKf7luWYdFW1jxiXhDJqytXGSiqylt/2sqpvtbyhDFtGk0y6V+rR0tuzENPVlvTl7pA/TKCC5CWExZbGNV+Ky/rNAT+AEIMLuExkImwDtcPuDmISoemxoRqsRg8wOmPnK8g2yNYiDsBf67AAklSFd84NR2twMqGj8O+8dMnWS5a8D/JmlKPAmnQ==",
-  "notes": "Audit fixes: changes made while sold go to review, old drafts keep their photos, the filter chip's x, shop pages keep their content and a way back, Try again in seconds, Arabic shop names, reported profiles notice, error reports name the build. Fits and lists as searches (Area, Engine size, Brand)"
+  "notes": "Audit fixes: changes made while sold go to review, old drafts keep their photos, the filter chip's x, shop pages keep their content and a way back, Try again in seconds, Arabic shop names, reported profiles notice, error reports name the build. Fits and lists as searches (Area, Engine size, Brand)",
+  "source": "motomart@c5f5b86",
+  "created": "2026-09-28T20:59:53.932Z"
 }
