@@ -9,6 +9,10 @@
           {
             "/": "/l/*",
             "comment": "A shared listing: /l/?id=<listing id>"
+          },
+          {
+            "/": "/s/*",
+            "comment": "A shared shop: /s/?id=<shop id>"
           }
         ]
       }
