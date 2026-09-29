@@ -1,13 +1,11 @@
 {
-  "v": 1,
-  "version": "ota-6",
   "seq": 6,
   "builds": [
     13
   ],
-  "bundle": "ota-6",
-  "url": "https://motomarteg.com/updates/bundles/ota-6.zip",
   "checksum": "9e8e55bd486802e3edffcab0a18cf416695154e5c52d71f327e6b0a22186a99c77c262127e8350437082fdc4f3d0f53c6fae5dd5469ea96cb32c3371242fc9f5f3d7e459ac2d91e2c59ccbf4fc9e4bc967039c850e62e3e67fd2ba4fe1b25fc4f35604864fcf6b7e9046e844d25cd6a15a094868cffab601cd32038b19b2b43be335f8d345d3f43ba29ae088b778342004a1a494a0f06d77dbcfb8aaa374adc5761389724d453b9664a58db281b8ebb416bfbb6babe4772ccd419bcf99f15d02915203d342cc80a07f0a21050082fd1e1c03b607690f0d194e996b235b8bef744815fe8eb3f9671f6d8c0d223d802db66e58640848964eb49836dfd00cc3a8a7",
   "session_key": "ojv+fh575e8hLQMUUREm0g==:BDFhcBQuwyWoKBdcKrtjQdbJ+4QFcFoqmtMfkAnXC+o2Llouh9D3DCT4M3oH2QutbPVX3p95dMsxj/LAJ40K3QUcldgEn/cE3smCpeZGYOUfVISqcdsWqoZbiIBlf3Rj67ttZijGOVh+zII+5RWtuuRXTCF0TeMuH3/KziFVCiyfXXxoiGss9yDZ6k7JtaQmxbnPLOV8EI/T0H1vXsiK2CLfDjKgHab0T5BI+Xo6pYkSsmA/WGj1pjGHHvTJwNxQbj/eUr6WsNdGx0eIBj3jg08MzjZ2RkOLCCjO8fPOAXwv45RecBE4naZ9HykV1JYtUt7GVCp+Q8bG5WEIr9BcBg==",
-  "notes": "Audit waves 2 and 3, fixes before launch"
+  "notes": "Audit waves 2 and 3, fixes before launch",
+  "source": "motomart@222a773",
+  "created": "2026-09-29T20:53:37.245Z"
 }
