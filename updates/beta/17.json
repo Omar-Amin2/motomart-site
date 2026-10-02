@@ -1,0 +1,13 @@
+{
+  "v": 1,
+  "version": "ota-8",
+  "seq": 8,
+  "builds": [
+    17
+  ],
+  "bundle": "ota-8",
+  "url": "https://motomarteg.com/updates/bundles/ota-8.zip",
+  "checksum": "d51b7a871c2b92fa7b78508471602215a9965e0c26ca835ecbf9c912f9e4c057ead7686c26cbdd225a6a0f7392c211c02e5a166480748a93d5e06b24d7bfc6bbacfc487f78494a323049f2d7f1ad71eae1898b217e12a353c1fce0f9694370339bbed179d3975fddd1ee4d55600080557e13f7bd4dc48d1505f29c086ae4c94060d93572b20052ccbb16cc5862c09ae5861c67afe9aac6e2a52cb2d5bbddf7b1fd3d8d91bc704cdda57b3f2daa4711355fe6223870f2607e5dc73f2bfc42c6d11e686c24b91e534687ee55e3ed8f24caae9eda500cda4477a3a7dd9859c12c76f165389e94f67a32dbf3d0b4804bafb8da296cab954dac8c6cd8584b9ec50f57",
+  "session_key": "NNQ9B7s+C4rMvnQ9SiUCjA==:cn5j7vZwioCD0nq/2pL0xMEw1FPVBBiDl5vNiyPKY8K9H7uxoD0jHwLSUHeq/6ky/cT38JcOh8HTMsU3j6G3Js24xtDzIF1w5FNHJK1XhtaFfimclvBW9w6n9lqVpc5LXEFEmIW1cAJ8ICRSbObIavyOcCsy4p22ZmNzDXis2pCxW5i+KqQQttUD4luHGNgiLr1ZMMf06cf+oCQrmtCexT04J3ygnx09zpK3f3Bj6qshN8USHkeqaC1LmiIMoZP0EAKpV3j8jQDMXcW+zJRY7GgBwbYYhDPy/KvlqDvmR00CtFobxCU9TgJIZ//KGyUrDZTMgenQP4sFz+YGIyS2mw==",
+  "notes": "Back knows what is behind it; toasts sit above the bottom bar; Favorites Undo in place; find-it bubble on short lists and Home"
+}
