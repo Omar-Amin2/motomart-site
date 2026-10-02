@@ -1,13 +1,11 @@
 {
-  "v": 1,
-  "version": "ota-9",
   "seq": 9,
   "builds": [
     17
   ],
-  "bundle": "ota-9",
-  "url": "https://motomarteg.com/updates/bundles/ota-9.zip",
   "checksum": "325b3999b2f35331128327f3001ca79d10e335518205b372118757f4d599295474ec23cd4037aadc25edc550f64366e0e5ffcc7b6cc13fe09dfa5d6ac2c95561addb580e9fa9824ad81837593e86e3aecdde0ae0d5740e38680dd1cc26305a5e843cac5aae0da0d55568ff51dd816f08329975f997096657c172cd61ba25dedb105ca920b800dd2490f879042dbb7ce18d8133aa33eb2f6de6a4e416307fc7f4c40ae7cfc1c1d3d70862b5f7e98dbe1df4097a95ac14eaeca8c0deacf321138ce3b1ca91bb48284bb4f6372ca324472c0037024f2c1e4f6684378dfbf084e7935e8702ccedcb804db5e37b5c00cb772819168efc8d71148da9f12923626fbbac",
   "session_key": "xjZ+ZP7LkgqkX6h1gCYnjQ==:OhfTReP54lsEXBUHVLmoywsjPR94mRTP1X4WLWiccx7KIDJEiIVW6N+Mxi9sKHz2ivfGON1X63XTZbZKBz6AzwNypXxe4sl6WdE61+hWQaVZkQq54YHyyt5E1vZNEVJolzoQ7FO5RRwtWSYaZP0zu1ub9UvwS6o3E4vIYf+EAxl0A3vlIHoXEUbOeYG5Z4M3fV7qZYqcewYZ/6QFBdlQeBh87mjM4XqlzOFqSLRSB5glgzcXwar2S8PXFvpG2qGYe5Yi7umjwkt0/o/p1kXd++JPp8+RwE0dLv6RGM3dDjmaw6qCD8nd5ie8gXcNPV2D7wO/94MwC4X8InQE/JG0Pw==",
-  "notes": "Done bar on every keyboard; delete notifications (swipe or hold, Undo; Clear all); plus ota-8's fixes"
+  "notes": "Done bar on every keyboard; delete notifications (swipe or hold, Undo; Clear all); plus ota-8's fixes",
+  "source": "motomart@a302b78",
+  "created": "2026-10-02T12:29:40.002Z"
 }
