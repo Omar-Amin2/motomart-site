@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.motomart",
+      "sha256_cert_fingerprints": [
+        "A6:86:B0:01:DE:C2:D9:D0:3F:7D:1F:5B:70:F9:42:B2:02:5D:BF:A4:D7:46:04:71:D8:41:A9:B1:D1:9A:D1:7E",
+        "3D:CB:9E:CA:4E:BD:01:6C:DB:27:5A:23:CD:15:57:82:AA:3C:01:63:B2:6D:A8:D4:4D:D9:8C:70:6D:3F:D3:CB"
+      ]
+    }
+  }
+]
