@@ -1,0 +1,11 @@
+{
+  "seq": 12,
+  "builds": [
+    18
+  ],
+  "checksum": "b9f7c621640637fc227711dcc5bc5fd2658590ef2e74a8224f68897d2b4b24b2015a063702988933d9ba453f46702feeb809ed17fbbad47a6d0f1925dac269d8ce3cb6bd643b9491c68639fb0c2574eefa15c165628b82625d7d63ea623d21c0458af352b52d3f61363b385bee6e78e25ff7f15df7c7464a2cd62f4805c69dd56432e97511a38eff585e21cf09beaa0be3c55e0618cd5faa5bf1802c720cea272b10624ec37c2705622575ea91e2fea69f0fb8f13ea0c099c53c0c46074b840addefd0144fe6a7adcc0fa53f8a126ba339fd120b40a0817386d07def3dfcb978c74c166e55c2cb50a342c0acd4448e70195aea06c652f900eac2011b8d5264e1",
+  "session_key": "dQxhZ+9wX2NsHHEBrIyfqQ==:MjgUiBllbcG2Bh8aWNrIciyqGjiciDA0vBjI7ocabwsQWstQXnOvShh6yJ2NIPX3igiWpRn9U6XAjg8qOPPKCVFEoROv6z1vDbI3LcX1zx3DokUbVz6DskaHCmFvCFZcxwag8J+RobBd8Kc3T716lf0h81bVqfdjPfK/jWof4MQJk5QMx2Ur9zYZ8CD4478BVqIvStuD5t0v/vQ54WS0KGdCmjVyrmQnh/PGvrkO2w610bxijsszN6zUFvCLTq7OQBLteeoXECDh/jEzKtGfjeLTJ+sg+Rcn4yI83QrTNHmfvLFY252/1L2/dvsNYVVUqFZjnxuiF12/sR930aayzw==",
+  "notes": "Shops can show 10 photos",
+  "source": "motomart@24af1e4",
+  "created": "2026-11-17T12:25:31.458Z"
+}
